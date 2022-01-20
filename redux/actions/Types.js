@@ -1,0 +1,8 @@
+export const SIGN_IN ="SIGN_IN"
+export const SIGN_UP = "SIGN_UP"
+export const SIGN_OUT = "SIGN_OUT"
+export const CREATE_TASK = "CREATE_TASK"
+export const GET_TASKS = "GET_TASKS"
+export const COMPLETE_TASK="COMPLETE_TASK"
+export const GETDATE_TASK = "GETDATE_TASK"
+export const PASS_CHANGED = "PASS_CHANGED"
